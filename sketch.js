@@ -4,7 +4,7 @@
  * object and is typically referred to as the name of the color (red, blue, 
  * yellow, etc.) Move the cursor vertically over each bar to alter its hue.
  */
-var barWidth = 10;
+var barWidth = 5;
 var lastBar = -1;
 
 function setup() {
